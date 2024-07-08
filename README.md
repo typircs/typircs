@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Rust, TypeScript, OperatingSystem**
 
-- 🌏 My Dev Environment **Linux Mint, MacOS, NeoVim, Wezterm**
+- 🌏 My Dev Environment **Arch Linux, MacOS, NeoVim, Wezterm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
